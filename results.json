@@ -4,24 +4,24 @@
   },
   "test_build_lm": {
     "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_3_gram_length": 8459,
+    "french_3_gram_length": 8502,
+    "spanish_3_gram_length": 8739
   },
   "test_eval": {
-    "en_on_en": 21.29,
-    "en_on_fr": 69.47,
-    "en_on_tl": 715.51,
-    "en_on_nl": 604.08
+    "en_on_en": 3.79,
+    "en_on_fr": 9.66,
+    "en_on_tl": 8.35,
+    "en_on_nl": 9.41
   },
-  "test_match": "TypeError('Cannot convert numpy.ndarray to numpy.ndarray')",
+  "test_match": "UnboundLocalError(\"cannot access local variable 'languages' where it is not associated with a value\")",
   "test_generate": {
-    "english_2_gram": "I amoulpeginShmes bid ae",
-    "english_3_gram": "I amit: Lynmkm ways.",
-    "english_4_gram": "I Love gifts @OndMade a no",
-    "spanish_2_gram": "Soycal\u00edodenyegucoside D",
-    "spanish_3_gram": "Soy orbe",
-    "french_2_gram": "Je suis:/opapropade ploman,",
-    "french_3_gram": "Je suis tune"
+    "english_2_gram": "I ambmeerndss: segj<ey @",
+    "english_3_gram": "I amShMP<end Thiss topet",
+    "english_4_gram": "I LoveTV @cjsmugs! \ud83d\udda4 #fina",
+    "spanish_2_gram": "Soy que le de!!! Nor:1i",
+    "spanish_3_gram": "Soyejes se a canaEstart",
+    "french_2_gram": "Je suis.chtarr l leninstenu",
+    "french_3_gram": "Je suis poonne_Azode se tro"
   }
 }
