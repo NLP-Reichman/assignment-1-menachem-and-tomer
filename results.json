@@ -14,7 +14,15 @@
     "en_on_tl": 54.98,
     "en_on_nl": 48.17
   },
-  "test_match": "TypeError('must be real number, not NoneType')",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 20.639142279107954,
+    "en_tl_3": 54.97825490636,
+    "en_nl_3": 48.174432055141665
+  },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
     "english_3_gram": "I amit: Lynmkm ways.",
