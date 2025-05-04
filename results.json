@@ -10,26 +10,18 @@
   },
   "test_eval": {
     "en_on_en": 20.64,
-    "en_on_fr": 42.31,
-    "en_on_tl": 54.8,
-    "en_on_nl": 48.08
+    "en_on_fr": 42.75,
+    "en_on_tl": 54.98,
+    "en_on_nl": 48.17
   },
-  "test_match": {
-    "df_shape": [
-      256,
-      4
-    ],
-    "en_en_3": 9.367302024740138,
-    "en_tl_3": 27.55724217528931,
-    "en_nl_3": 26.124731679625206
-  },
+  "test_match": "TypeError('must be real number, not NoneType')",
   "test_generate": {
-    "english_2_gram": "I amispust dyet d hi I'\ud83c\udf1a",
-    "english_3_gram": "I amn\ud83d\udc3azw\ud83d\ude43xu\ud83d\ude28a h\u2605ub\ud83d\udd0cdl\u2709hm",
-    "english_4_gram": "I Love\u2015xlzw\ud83d\ude43xuqa \uc154hub\ud83d\ude18dlph",
-    "spanish_2_gram": "Soyarotrt.",
-    "spanish_3_gram": "Soyt\ud83d\udc8bzw\ud83d\ude46xu\ud83d\ude32a h\u30a4ub\ud83d\udd95dl\uff43hm",
-    "french_2_gram": "Je suiserr\u00e8\u304c\ud83d\ude333D\ud83d\udc78\ud83c\udffc\ud83d\ude20queng JL\u6328",
-    "french_3_gram": "Je suisi\u00a3zw\ud83d\ude45xu\ud83d\ude30a j\ud83d\udcaaub\ud83d\udd5cdl\uacb0hm"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune"
   }
 }
